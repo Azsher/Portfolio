@@ -1,0 +1,13 @@
+.main-txt {
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 2rem;
+}
+
+.content {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, auto));
+    align-items: center;
+    gap: 2.5rem;
+    margin-top: 5rem;
+}
